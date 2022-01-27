@@ -1,0 +1,11 @@
+{
+    "name": "equinixmetal",
+    "config": {
+        "image": "ghcr.io/kubernetes-sigs/cluster-api-provider-equinixmetal",
+        "live_reload_deps": [
+            "main.go", "go.mod", "go.sum", "api", "controllers", "pkg"
+        ],
+        "label": "equinixmetal",
+        "manager_name": "capem-controller-manager"
+    }
+}

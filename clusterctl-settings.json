@@ -1,0 +1,8 @@
+{
+    "name": "infrastructure-equinixmetal",
+    "config": {
+      "componentsFile": "infrastructure-components.yaml",
+      "nextVersion": "v1.0.0"
+    }
+  }
+  
